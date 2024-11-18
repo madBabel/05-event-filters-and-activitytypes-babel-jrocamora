@@ -31,3 +31,5 @@ explorar las diferentes formas en que podemos utilizar event-filters y activity 
 
 Cambios creados desde la rama develop
 
+- Cambios desde la rama de feat-1-act-Types
+
