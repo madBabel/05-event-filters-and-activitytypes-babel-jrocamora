@@ -30,3 +30,4 @@ explorar las diferentes formas en que podemos utilizar event-filters y activity 
 ---
 
 > cambios en la rama feat-1-act-Types 
+> segundo cambio en esta rama
